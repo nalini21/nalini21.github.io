@@ -6,7 +6,7 @@
     "email": "naliniranjan21@gmail.com",
     "phone": "8637315615",
     "website": "https://nalini21.github.io",
-    "summary": "I am a final year student of Mathematics and Computing at IIT Kharagpur",
+    "summary": "I am a final year student of Mathematics Department enrolled in 5 year Integrated M.Sc. course at IIT Kharagpur",
     "location": {
       "address": "",
       "postalCode": "495559",
@@ -34,56 +34,53 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Data Science",
-        "Flutter App Development"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Data Science",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Flutter App Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "MERN",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming",
       "level": "",
       "keywords": [
         "C",
         "C++",
-        "Java",
+        "Python",
+        "HTML",
+        "CSS",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Dart",
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Databases",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Firebase Firestore",
+        "MongoDB",
+        "SQL",
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "Indian Institute of Technology Kharagpur, India",
+      "Course": "Mathematics and Computing",
+      "Degree": "M.Sc.",
+      "startDate": "15-07-2017",
+      "endDate": "",
+      "gpa": "6.95",
       "courses": [
       ]
     }
@@ -100,46 +97,7 @@
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
       ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
+    },  
   ],
   "awards": [
     {
