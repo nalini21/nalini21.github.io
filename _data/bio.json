@@ -76,7 +76,7 @@
       "name": "Python Libraries",
       "level": "",
       "keywords": [
-        "Numpy,  
+        "Numpy",  
         "Pandas", 
         "Sckiti-Learn",
         "Matplotlib", 
@@ -91,7 +91,7 @@
       "name": "Tools and Services",
       "level": "",
       "keywords": [
-        "Firebase Firestore,  
+        "Firebase Firestore",  
         "Git", 
         "Firebase",
         "Heroku", 
