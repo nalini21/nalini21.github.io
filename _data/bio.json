@@ -108,10 +108,22 @@
       "institution": "Indian Institute of Technology Kharagpur, India",
       "Course": "Mathematics and Computing",
       "Degree": "M.Sc.",
-      "startDate": "15-07-2017",
+      "startDate": "",
       "endDate": "",
       "gpa": "6.95",
       "courses": [
+        {
+          "Programming and Data Structures",
+          "Design and Analysis of Algorithms",
+          "Object Oriented System Design",
+          "egression and Time Series Model",
+          "File Organization and Database Systems",
+          "Stochastic Process and Simulation",
+          "Computer Organization and Architecture",
+          "Probability and Statistics",
+          "Linear Algebra",
+          "Operating systems"
+        }
       ]
     }
   ],
