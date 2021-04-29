@@ -36,7 +36,6 @@
     {
       "name": "Data Science",
       "keywords": [
-        "Machine Learning"
       ]
     },
     {
@@ -72,6 +71,36 @@
         "MongoDB",
         "SQL",
       ]
+    },
+     {
+      "name": "Python Libraries",
+      "level": "",
+      "keywords": [
+        "Numpy,  
+        "Pandas", 
+        "Sckiti-Learn",
+        "Matplotlib", 
+        "Seaborn",
+        "Tensorflow",
+        "Kears",
+        "PyTorch",
+        "PyQt5"
+      ]
+    }
+    {
+      "name": "Tools and Services",
+      "level": "",
+      "keywords": [
+        "Firebase Firestore,  
+        "Git", 
+        "Firebase",
+        "Heroku", 
+        "Flutter",
+        "Azure",
+        "React",
+        "Node.js",
+        "Bootstrap"
+      ]
     }
   ],
   "education": [
@@ -86,38 +115,28 @@
       ]
     }
   ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },  
-  ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "DAKSHANA SCHOLARSHIP",
+      "date": "2015-2017",
+      "awarder": "Dakshana Foundation",
+      "summary": "Received Dakshana Scholarship which provided free IIT JEE coaching for two years in JNV Kottayam. Under this program, less than only 1% of students are selected from the GDST examination."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "JEE ADVANCED 2017",
+      "date": "2017",
+      "awarder": "",
+      "summary": "Successfully Cleared JEE Advanced and was among top contenders to grab a seat in Mathematics Department, IIT Kharagpur."
     }
   ],
-  "references": [
+  "position of responsibility": [
     {
-      "name": "Available upon request",
-      "reference": ""
-    }
+      "name": "GENERAL SECRETARY LIBRARY B. R. AMBEDKAR HALL OF RESIDENCE, IIT KHARAGPUR",
+      "summary": "Served as General Secretary Library of B. R. Ambedkar Hall of residence, IIT Kharagpur for the session 2019-2020. Availed fifty new books of various categories to the hall boarders and worked on the digitalization of books issue and return process of the library."
+    },
+    {
+      "name": "GENERAL SECRETARY TECHNOLOGY B. R. AMBEDKAR HALL OF RESIDENCE, IIT KHARAGPUR",
+      "summary": "Currently serving as General Secretary Technology of B. R. Ambedkar Hall of residence, IIT Kharagpur for the session 2020-2021. Responsible for Managing Participation of Hall Boarders in various Technology events organized by Institute throughout the year"
+    },
   ]
 }
